@@ -23,7 +23,8 @@ body,
 }
 
 h1 {
-  margin: 10px;
+  font-size: 50px;
+  margin: 100px;
 }
 
 .search {
