@@ -14,6 +14,7 @@ const App= ()=>{
     }
     return (
     <div className='main-container'>
+        <h2>Please Enter A Location Name:</h2>
         <input 
             type="text"
             className="search"
